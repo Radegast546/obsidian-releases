@@ -31414,5 +31414,12 @@
     "author": "usero2-endofday",
     "description": "This plugin has not been manually reviewed by Obsidian staff. View folders as a media gallery.",
     "repo": "usero2/obsidian-plugins-folder-as-gallery"
-  }
+  },
+  {
+    "id": "links-with-icons",
+    "name": "Links with Icons",
+    "author": "Radegast546",
+    "description": "Dynamically shows native OS file icons and website favicons next to links in your notes.",
+    "repo": "Radegast546/links-with-icons"
+}
 ]
